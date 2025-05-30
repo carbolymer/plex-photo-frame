@@ -1,5 +1,5 @@
 window.Config = {
-    plexPathRoot: 'http://192.168.0.2:32400', // without trailing slash
+    plexPathRoot: 'http://plex.home', // without trailing slash
     browser: {
         thumbnailSize: {
             w: 100, // px
